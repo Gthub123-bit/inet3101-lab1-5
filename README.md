@@ -16,5 +16,24 @@ Input Handling: Reading and storing user-provided information.
 Memory Safety: Preventing memory leaks through proper deallocation.
 This lab reinforces how dynamic memory enables scalable, efficient programming for real-world challenges.
 
+## Repository Contents
 
+- **Code Files**: The modified code from Part 1 of the lab assignment.
+- **Documentation**: A Word document containing screenshots and paragraph answers related to the lab.
+- **README.md**: This file, providing an overview of the repository and its contents.
+
+## Getting Started
+
+To get a local copy of this repository up and running on your machine, follow these steps:
+
+### Prerequisites
+
+- Git installed on your local machine.
+- A GitHub account.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Gthub123-bit/inet3101-lab1-5.git
 
