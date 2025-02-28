@@ -1,6 +1,5 @@
 ## Author Information:
      Name : Hamze Hassan
-            Hassan Elmi
      Course name : INET 3101 - C Programming Language and Applications 
 
 
